@@ -7,6 +7,20 @@
   pointer-events: none;
 }
 
+p {
+  font-family: 'Futura';
+  font-size: 3vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+  padding-top: 8vh;
+  padding-bottom:8vh;
+
+}
+
+#open {
+  margin: 0;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -34,5 +48,16 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  p {
+    font-family: 'Futura';
+  font-size: 2vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+  padding-top: 8vh;
+  padding-bottom: 8vh;
   }
 }

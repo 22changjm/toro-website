@@ -1,0 +1,101 @@
+.title-font {
+    font-family: 'futura';
+    font-size: 3vh;
+}
+
+.header-font {
+    font-family: 'futura';
+    font-size: 2vh;
+
+}
+
+.body-font {
+    font-family: 'futura';
+    font-size: 1.5vh;
+
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: white;
+    margin: 2vh;
+}
+
+.store-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+.day {
+    width: 15vw;
+    text-align: left;
+}
+.time {
+    text-align: left;
+}
+
+
+.hour-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.social-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.day-time-container {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .title-font {
+        font-family: 'futura';
+        font-size: 2.5vh;
+        margin: 2.5vh;
+        margin-bottom: 0vh;
+    }
+
+    .day {
+        width: 45vw;
+        text-align: left;
+    }
+
+    .store-info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hour-info {
+        width: 100%;
+        margin: 2vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .social-info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin: 3vh;
+    }
+ }

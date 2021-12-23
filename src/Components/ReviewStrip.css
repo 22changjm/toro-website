@@ -1,0 +1,24 @@
+.review-desc {
+    font-family: 'Futura';
+    font-size: 2.5vh;
+}
+.review-type {
+    font-family: 'Futura';
+    font-size: 1.5vh;
+
+}
+.review {
+    width: 80vw;
+    margin: 2vh;
+}
+
+.reviewstrip {
+    align-items: center;
+    display:flex;
+    flex-direction : column;
+    background-color: blanchedalmond;
+}
+
+.viewReviewButton {
+    margin: 1vh;
+}
