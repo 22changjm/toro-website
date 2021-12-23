@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toro-website/static/css/main.009f017f.css",
+    "main.js": "/toro-website/static/js/main.7d970540.js",
+    "static/js/787.f870f94c.chunk.js": "/toro-website/static/js/787.f870f94c.chunk.js",
+    "static/media/home-photo.png": "/toro-website/static/media/home-photo.d8e16c1ea998d767d52f.png",
+    "static/media/mussels.png": "/toro-website/static/media/mussels.2492e66c23b934ec2fc9.png",
+    "static/media/1k.png": "/toro-website/static/media/1k.d636d4286433031684ba.png",
+    "static/media/bibimbap.png": "/toro-website/static/media/bibimbap.19ba8f7533045fd7abe7.png",
+    "static/media/poki.png": "/toro-website/static/media/poki.bd0ca11adb868ea188ea.png",
+    "static/media/sashimi.png": "/toro-website/static/media/sashimi.64da743ae14a4291b6b5.png",
+    "static/media/uni.png": "/toro-website/static/media/uni.0236d5ba8cf2ce46030a.png",
+    "index.html": "/toro-website/index.html",
+    "main.009f017f.css.map": "/toro-website/static/css/main.009f017f.css.map",
+    "main.7d970540.js.map": "/toro-website/static/js/main.7d970540.js.map",
+    "787.f870f94c.chunk.js.map": "/toro-website/static/js/787.f870f94c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.009f017f.css",
+    "static/js/main.7d970540.js"
+  ]
+}
